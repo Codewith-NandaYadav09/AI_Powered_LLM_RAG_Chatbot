@@ -1,4 +1,3 @@
-# llm_model.py
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
 
