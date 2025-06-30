@@ -1,4 +1,3 @@
-# embedding_model.py
 from sentence_transformers import SentenceTransformer
 
 class HuggingFaceEmbeddings:
